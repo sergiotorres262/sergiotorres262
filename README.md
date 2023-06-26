@@ -3,7 +3,7 @@
 <!--
 **sergiotorres262/sergiotorres262** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-My name is Sergio and I am a student of cross-platform application development. I am proficient in languages such as Java, C#, Javascript... With a particular expertise in Java, I have worked on various projects using development environments like Eclipse, Visual Studio and Visual Studio Code. In addition to my programming experience, I also have knowledge in database management using MySQL. My interests include application development and big data, with a future goal of becoming a Big Data Analyst.
+My name is Sergio and I am a developer. I am proficient in languages such as Java, C#, Javascript... With a particular expertise in Java, I have worked on various projects using development environments like Eclipse, Visual Studio and Visual Studio Code. In addition to my programming experience, I also have knowledge in database management using MySQL. My interests include application development and cibersecurity, with a future goal of becoming a Cibersecurity Analyst.
 
 I have also developed a personal project using Node.js, it was a Discord bot that simulated a trading card album. You cand find it [here](https://github.com/sergiotorres262/Discord-Card-Collection)
 
