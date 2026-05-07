@@ -41,10 +41,13 @@ I have also developed a personal project using Node.js, it was a Discord bot tha
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/Sergitest_)
 
 
-### Statistics   
+### Statistics
 
 <p align="center">
-    <img width="56%" src="https://github-readme-stats.vercel.app/api?username=sergiotorres262&show_icons=true&theme=tokyonight"/>
-    <img width="36%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sergiotorres262&layout=compact&theme=tokyonight"/>
+    <a href="https://github.com/sergiotorres262">
+      <img width="56%" src="https://github-readme-stats-eta-ashen-62.vercel.app/api?username=sergiotorres262&show_icons=true&theme=tokyonight" alt="Sergio's GitHub stats"/>
+    </a>
+    <a href="https://github.com/sergiotorres262">
+      <img width="36%" src="https://github-readme-stats-eta-ashen-62.vercel.app/api/top-langs/?username=sergiotorres262&layout=compact&theme=tokyonight" alt="Top Languages"/>
+    </a>
 </p>
-
