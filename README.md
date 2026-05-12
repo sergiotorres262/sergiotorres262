@@ -45,4 +45,4 @@ Llevo casi 3 años desarrollando backend en C# / .NET en producción. En el últ
 
 ---
 
-> ¿Tienes una empresa con software en .NET y quieres meter IA con criterio? Hablemos.
+> ¿Buscas refuerzo en backend .NET o quieres aplicar IA con criterio en tu producto? Escríbeme.
