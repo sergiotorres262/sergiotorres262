@@ -4,8 +4,7 @@ Soy Sergio, **Desarrollador .NET** especializado en integrar IA en software real
 
 Llevo casi 3 años desarrollando backend en C# / .NET en producción. En el último año me he obsesionado con cómo los LLMs y los agentes pueden cambiar la forma de construir software — no entrenando modelos, sino integrándolos con criterio en aplicaciones reales: APIs de Claude (Anthropic) y GPT (OpenAI) desde código, agentes con MCP, prompt engineering versionado y workflows con Cursor.
 
-📍 Madrid · Disponible para colaboraciones de IA aplicada en proyectos .NET.
-
+📍 Madrid · Disponible para proyectos de **desarrollo backend .NET** o de **aplicación de IA en cualquier stack**.
 ---
 
 ### 🛠️ Stack
