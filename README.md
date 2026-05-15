@@ -2,7 +2,7 @@
 
 Soy Sergio, **Desarrollador .NET** especializado en integrar IA en software real.
 
-Llevo casi 3 años desarrollando backend en C# / .NET en producción. En el último año me he obsesionado con cómo los LLMs y los agentes pueden cambiar la forma de construir software — no entrenando modelos, sino integrándolos con criterio en aplicaciones reales: APIs de Claude (Anthropic) y GPT (OpenAI) desde código, agentes con MCP, prompt engineering versionado y workflows con Cursor.
+Llevo casi 3 años desarrollando backend en C# / .NET en producción. En el último año me he obsesionado con cómo los LLMs y los agentes pueden cambiar la forma de construir software — no entrenando modelos, sino integrándolos con criterio en aplicaciones reales: APIs de Claude (Anthropic) y GPT (OpenAI) desde código, agentes con MCP, prompt engineering versionado y workflows con Claude Code.
 
 📍 Madrid · Disponible para proyectos de **desarrollo backend .NET** o de **aplicación de IA en cualquier stack**.
 ---
@@ -31,7 +31,7 @@ Llevo casi 3 años desarrollando backend en C# / .NET en producción. En el últ
 
 📦 **[PokéPrecios](https://pokeprecios.es)** — Portal en español del Juego de Cartas Coleccionables Pokémon. En desarrollo activo. HTML/CSS/JS sobre Cloudflare Pages + Python sobre Railway. Gestor de colección, precios desde Cardmarket, sistema completo de cuentas.
 
-📦 **claude-from-dotnet** *(coming soon)* — Guía práctica para integrar la API de Anthropic Claude desde C# / .NET. Ejemplos listos para producción: chat, streaming, structured output, tool use, MCP, RAG.
+📦 **claude-from-dotnet** — Guía práctica para integrar la API de Anthropic Claude desde C# / .NET. Ejemplos listos para producción: chat, streaming, structured output, tool use, MCP, RAG.
 
 📦 **calculadora-roi-ia** *(coming soon)* — Herramienta gratuita: calcula cuánto te ahorraría aplicar IA en los procesos repetitivos de tu empresa.
 
