@@ -2,9 +2,9 @@
 
 Soy Sergio, **Desarrollador .NET** especializado en integrar IA en software real.
 
-Llevo casi 3 años desarrollando backend en C# / .NET en producción. En el último año me he obsesionado con cómo los LLMs y los agentes pueden cambiar la forma de construir software — no entrenando modelos, sino integrándolos con criterio en aplicaciones reales: APIs de Claude (Anthropic) y GPT (OpenAI) desde código, agentes con MCP, prompt engineering versionado y workflows con Claude Code.
+Llevo casi 3 años desarrollando aplicaciones desktop e integraciones en C# / .NET en producción. En el último año me he obsesionado con cómo los LLMs pueden cambiar la forma de construir software — no entrenando modelos, sino integrándolos con criterio en aplicaciones reales: APIs de Claude (Anthropic) y GPT (OpenAI) desde código, tool use con MCP, prompt engineering versionado y workflows con Claude Code.
 
-📍 Madrid · Disponible para proyectos de **desarrollo backend .NET** o de **aplicación de IA en cualquier stack**.
+📍 Madrid · Disponible para proyectos de **desarrollo .NET** o de **aplicación de IA en cualquier stack**.
 ---
 
 ### 🛠️ Stack
@@ -19,7 +19,7 @@ Llevo casi 3 años desarrollando backend en C# / .NET en producción. En el últ
 
 **IA aplicada**
 
-`Anthropic Claude API` · `OpenAI API` · `MCP` · `Prompt engineering` · `Cursor` · `Midjourney` · `LoRA fine-tuning`
+`Anthropic Claude API` · `OpenAI API` · `MCP` · `Prompt engineering` · `Claude Code` · `Midjourney`
 
 **Herramientas**
 
@@ -29,9 +29,9 @@ Llevo casi 3 años desarrollando backend en C# / .NET en producción. En el últ
 
 ### 🚧 En lo que estoy trabajando
 
-📦 **[PokéPrecios](https://pokeprecios.es)** — Portal en español del Juego de Cartas Coleccionables Pokémon. En desarrollo activo. HTML/CSS/JS sobre Cloudflare Pages + Python sobre Railway. Gestor de colección, precios desde Cardmarket, sistema completo de cuentas.
+📦 **[PokéPrecios](https://pokeprecios.es)** — Portal en español del Juego de Cartas Coleccionables Pokémon. En desarrollo activo. Stack: HTML/CSS/JS sobre Cloudflare Pages + Python sobre Railway. **Mi laboratorio para entender cómo es construir software en producción operando IA: yo decido producto y arquitectura, Claude Code escribe el código.**
 
-📦 **claude-from-dotnet** — Guía práctica para integrar la API de Anthropic Claude desde C# / .NET. Ejemplos listos para producción: chat, streaming, structured output, tool use, MCP, RAG.
+📦 **claude-from-dotnet** — Guía práctica para integrar la API de Anthropic Claude desde C# / .NET. Ejemplos pedagógicos que funcionan: chat, streaming, structured output, tool use, MCP, RAG.
 
 📦 **calculadora-roi-ia** *(coming soon)* — Herramienta gratuita: calcula cuánto te ahorraría aplicar IA en los procesos repetitivos de tu empresa.
 
@@ -44,4 +44,4 @@ Llevo casi 3 años desarrollando backend en C# / .NET en producción. En el últ
 
 ---
 
-> ¿Buscas refuerzo en backend .NET o quieres aplicar IA con criterio en tu producto? Escríbeme.
+> ¿Buscas refuerzo en desarrollo .NET o quieres aplicar IA con criterio en tu producto? Escríbeme.
